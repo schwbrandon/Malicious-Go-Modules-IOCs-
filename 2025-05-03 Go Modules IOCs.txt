@@ -1,0 +1,31 @@
+# Malicious Go Modules
+github[.]com/truthfulpharm/prototransform
+github[.]com/blankloggia/go-mcp
+github[.]com/steelpoor/tlsproxy
+
+# Malicious npm Packages
+crypto-encrypt-ts
+react-native-scrollpageviewtest
+bankingbundleserv
+buttonfactoryserv-paypal
+compliancereadserv-paypal
+oauth2-paypal
+paymentapiplatformservice-paypal
+userbridge-paypal
+userrelationship-paypal
+
+# Malicious PyPI Packages (Crypto-focused)
+web3x
+herewalletbot
+
+# Malicious PyPI Packages (SMTP/WebSocket-based)
+cfc-bsb
+coffin2022
+coffin-codes-2022
+coffin-codes-net
+coffin-codes-net2
+coffin-codes-pro
+coffin-grave
+
+# Known Malicious Domains / Services Used
+smtp.gmail[.]com
