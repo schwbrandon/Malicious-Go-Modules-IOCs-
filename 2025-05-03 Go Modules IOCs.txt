@@ -29,3 +29,5 @@ coffin-grave
 
 # Known Malicious Domains / Services Used
 smtp.gmail[.]com
+
+# Source: https://thehackernews.com/2025/05/malicious-go-modules-deliver-disk.html
